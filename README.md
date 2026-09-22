@@ -1,12 +1,15 @@
-<h1 align="center">Hi, I'm Carvajal 👋</h1>
+<h1 align="center">Carvajal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3500&pause=800&center=true&vCenter=true&width=650&height=55&color=2F81F7&lines=SOC+Analyst+in+training;Detection+engineering+and+blue+team;Software+builder+turned+defender;Evidence+over+assumptions" alt="Typing SVG" />
+  <a href="https://profile.hackthebox.com/profile/019d1d50-0f9b-7196-b42c-c994b54187cc">
+    <img src="https://img.shields.io/badge/HTB-CDSA%20Certified-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB CDSA Certified"/>
+  </a>
+  <img src="https://img.shields.io/badge/Mexico-Remote-2F81F7?style=for-the-badge" alt="Location"/>
 </p>
 
 <p align="center">
-  </a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3500&pause=800&center=true&vCenter=true&width=600&height=45&color=2F81F7&lines=SOC+analyst+%2F+blue+teamer;Detection+engineering+and+DFIR;Software+background%2C+defender+by+focus;Evidence+over+assumptions" alt="Typing SVG"/>
   </a>
 </p>
 
