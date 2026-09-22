@@ -14,15 +14,15 @@
 
 ## 🧑‍💻 Who I am
 
-I build software, so I understand how it breaks — and now I'm turning that into **detection engineering**. I'm training as a **SOC analyst / blue teamer**, focused on turning attacks into the detections that catch them, and on trusting **evidence over assumptions**. Currently on the road to the **HTB CDSA** certification.
+SOC analyst and blue teamer, **CDSA certified**, and a software engineering student.
+
+I work on detection and incident response — taking an attack apart from the evidence it leaves behind, and writing the detections that catch it next time. My software background helps me read how systems actually behave and where they fail. Every finding is backed by an artifact, not a guess.
 
 ##  What I'm currently working on
 
-- **HTB Academy — SOC Analyst Path**, working toward the **CDSA** certification
-- **home detection lab** where I run the full detection-engineering loop: **attack → detect → evade → tune**
-- **Documenting detection cycles** — hypothesis, telemetry, rule, evasion, fix
-- **Hands-on challenges** on Blue Team Labs Online (BTLO), TryHackMe & Hack The Box
-- **External security analysis** (OSINT / passive) — I mapped a live website compromise entirely from the outside, with no server access or credentials
+- **[blue-team-portfolio](https://github.com/Carvajal-Hc/blue-team-portfolio)** — DFIR investigations, threat hunting and detection engineering. Attack chains mapped to MITRE ATT&CK, in CDSA report format.
+- **[Detection-Lab](https://github.com/Carvajal-Hc/Detection-Lab)** — home detection lab. Sigma, Elastic and Sysmon. Attack → detect → evade → tune.
+- **[SkillScan](https://github.com/Carvajal-Hc/SkillScan)** — a layered security scanner for AI assistant skills (Python AST, taint tracking, dependency and typosquat checks).
 
 ## 🛠️ Tools &amp; Tech
 
