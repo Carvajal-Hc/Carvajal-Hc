@@ -67,5 +67,3 @@ I work on detection and incident response — taking an attack apart from the ev
 
 
 ---
-
-<p align="center"><i>Attack → detect → evade → tune. One cycle at a time.</i></p>
