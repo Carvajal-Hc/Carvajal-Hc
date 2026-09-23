@@ -26,6 +26,7 @@ I work on detection and incident response — taking an attack apart from the ev
 - **[blue-team-portfolio](https://github.com/Carvajal-Hc/blue-team-portfolio)** — DFIR investigations, threat hunting and detection engineering. Attack chains mapped to MITRE ATT&CK, in CDSA report format.
 - **[Detection-Lab](https://github.com/Carvajal-Hc/Detection-Lab)** — home detection lab. Sigma, Elastic and Sysmon. Attack → detect → evade → tune.
 - **[SkillScan](https://github.com/Carvajal-Hc/SkillScan)** — a layered security scanner for AI assistant skills (Python AST, taint tracking, dependency and typosquat checks).
+- **[soc-copilot](https://github.com/Carvajal-Hc/soc_copilot)** — an air-gapped, natural-language triage copilot over Splunk. Translates plain-English questions into read-only SPL, answers only from returned rows, with guardrails that anchor every literal and refuse to invent evidence.
 
 ## 🛠️ Tools &amp; Tech
 
